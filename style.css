@@ -1,3 +1,14 @@
 body {
     background-color: rgb(231, 192, 192)
 }
+
+.click {
+    width: 40px;
+    height: 40px;
+    background-color: black;
+}
+
+.result {
+    display: flex;
+    flex-direction: column;
+}
