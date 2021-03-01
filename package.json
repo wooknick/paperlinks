@@ -10,7 +10,7 @@
     "jquery": "^3.4.1",
     "parcel-bundler": "^1.12.3",
     "reset-css": "^4.0.1",
-    "three": "^0.107.0",
+    "three": "^0.125.0",
     "xml-js": "^1.6.11"
   },
   "devDependencies": {
